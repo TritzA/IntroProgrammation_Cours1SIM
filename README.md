@@ -1,4 +1,4 @@
-# IntroProgrammation_Cours1SIM
+# IntroProgrammation-Cours-1-SIM
 
 Cours : 420-SCA-MA INTRODUCTION À LA PROGRAMMATION
 
